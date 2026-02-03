@@ -23,6 +23,7 @@
     "@angular/router": "^20.0.0",
     "@ionic/angular": "^8.0.0",
     "@ionic/cordova-builders": "^12.3.0",
+    "cordova": "^13.0.0",
     "ionicons": "^7.0.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
